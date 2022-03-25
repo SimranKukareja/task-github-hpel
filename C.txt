@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellomobile
+=======
+hellotv
+>>>>>>> origin/A_branch
